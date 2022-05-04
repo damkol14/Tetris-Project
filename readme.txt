@@ -1,10 +1,13 @@
-Jest to projekt gry tetris, pomys≥ zaczerpniÍty z fimu
+link do projektu:
+https://damkol14.github.io/Tetris-Project/
+
+Jest to projekt gry tetris, pomys≈Ç zaczerpniƒôty z fimu
 
 "Learn JavaScript by Building 7 Games - Full Course" 
 
 link https://www.youtube.com/watch?v=lhNdUVh3qCc
 
-Sam napisa≥em ca≥y javascript, nie zaglπda≥em do kodu ürÛd≥owego.
-CSS by≥ przygotowany w kursie.
+Sam napisa≈Çem ca≈Çy javascript, nie zaglƒÖda≈Çem do kodu ≈∫r√≥d≈Çowego.
+CSS by≈Ç przygotowany w kursie.
 
-Zrobi≥em 6 gier z tego kursu.
+Zrobi≈Çem 6 gier z tego kursu.
